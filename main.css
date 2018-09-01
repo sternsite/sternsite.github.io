@@ -1,0 +1,88 @@
+.memberimg {
+    height: 100px;
+    width: 100px !important;
+    display: block;
+    border-radius: 100%;
+    border: 2px solid #E03A3E;
+}
+
+.btn,
+.btn-primary {
+    background: #E03A3E !important;
+    background-color: #E03A3E !important;
+    border-color: #E03A3E !important;
+}
+
+a.uname {
+    color: #E03A3E;
+    font-weight: bold;
+    border-bottom: 2px solid transparent;
+    padding-bottom: 2px;
+    transition: all .3s ease;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+}
+
+a.uname:hover {
+    border-bottom: 2px solid #E03A3E;
+    padding-bottom: 2px;
+    transition: all .3s ease;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+}
+
+.cardmain {
+    cursor: ;
+    transition: all .3s ease;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+}
+
+.cardmain:hover {
+    transition: all .3s ease;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    -webkit-box-shadow: 10px 10px 0px 0px rgba(224, 58, 62, 1);
+    -moz-box-shadow: 10px 10px 0px 0px rgba(224, 58, 62, 1);
+    box-shadow: 10px 10px 0px 0px rgba(224, 58, 62, 1);
+}
+
+.challengebutton {
+    background: #E03A3E;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 1px;
+    border-radius: 2px !important;
+    cursor: pointer;
+    transition: all .3s ease;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+}
+
+.challengebutton:hover {
+    transition: all .3s ease;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    background: #ed5a5e;
+    box-shadow: none !important;
+}
+
+.challengebutton:active {
+    transition: all .3s ease;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    background: #E03A3E;
+    box-shadow: none !important;
+    outline: none !important;
+}
+
+.navbar {
+    background: pink ;
+}
